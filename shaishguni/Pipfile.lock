@@ -5,7 +5,7 @@
         },
         "pipfile-spec": 6,
         "requires": {
-            "python_version": "3.9"
+            "python_version": "3.9.1"
         },
         "sources": [{
             "name": "pypi",
@@ -20,7 +20,7 @@
                 "sha256:7162a3cb30ab0609f1a4c95938fd73e8604f63bdba516a7f7d64b83ff09478f0"
             ],
             "markers": "python_version >= '3.5'",
-            "version": "==3.3.1"
+            "version": "==3.9.1"
         },
         "django": {
             "hashes": [
@@ -28,7 +28,7 @@
                 "sha256:baf099db36ad31f970775d0be5587cc58a6256a6771a44eb795b554d45f211b8"
             ],
             "index": "pypi",
-            "version": "==3.1.7"
+            "version": "==3.9.1"
         },
         "gunicorn": {
             "hashes": [
@@ -49,7 +49,7 @@
                 "sha256:017cde379adbd6a1f15a61873f43e8274179378e95ef3fede90b5aa64d304ed0",
                 "sha256:0f91fd2e829c44362cbcfab3e9ae12e22badaa8a29ad5ff599f9ec109f0454e8"
             ],
-            "markers": "python_version >= '3.5'",
+            "markers": "python_version >= '39.1'",
             "version": "==0.4.1"
         },
         "whitenoise": {
@@ -58,7 +58,7 @@
                 "sha256:05d00198c777028d72d8b0bbd234db605ef6d60e9410125124002518a48e515d"
             ],
             "index": "pypi",
-            "version": "==5.2.0"
+            "version": "==5"
         }
     },
     "develop": {}
