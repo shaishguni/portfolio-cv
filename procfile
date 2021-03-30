@@ -1,1 +1,1 @@
-web: gunicorn shaishguni.wsgi --portfolio-
+web: gunicorn shaishguni.wsgi --portfolio--
