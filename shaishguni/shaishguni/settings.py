@@ -29,7 +29,7 @@ SECRET_KEY = '%yx&=q0we6%t716=w2k!ho777tca1d8j90xdb!t#y3w%s53(u%'
 # SECURITY WARNING don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['shaishguni.herokuapp.com']
+ALLOWED_HOSTS = ['shaishguni.herokuapp.com', 'mythpat.herokuapp.com']
 
 
 # Application definition
