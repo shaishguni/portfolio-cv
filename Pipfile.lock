@@ -1,11 +1,19 @@
 {
     "_meta": {
         "hash": {
+<<<<<<< HEAD
             "sha256": "14653c595cd0f28b74035c0291e8de22de3e8370bbfbf69a2d401cda1828a8fc"
         },
         "pipfile-spec": 6,
         "requires": {
             "python_version": "3.6"
+=======
+            "sha256": "42e55ca30235977151eaa5ada08fdb4abfbf0af2474704c4e4aa4f4ec4e381d6"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.9"
+>>>>>>> master
         },
         "sources": [
             {
@@ -21,8 +29,18 @@
                 "sha256:7c3543e4fb070d14e10926189a7fcf42ba919263b7473dceaefce34d54e8a119",
                 "sha256:a2814bffd1f007805b19194eb0b9a331933b82bd5da1c3ba3d7b7ba16e06dc4b"
             ],
+<<<<<<< HEAD
             "index": "pypi",
             "version": "==2.2"
+=======
+<<<<<<< HEAD
+            "markers": "python_version >= '3.5'",
+            "version": "==3.9.1"
+=======
+            "index": "pypi",
+            "version": "==3.3.1"
+>>>>>>> master
+>>>>>>> master
         },
         "django-cors-headers": {
             "hashes": [
@@ -30,7 +48,11 @@
                 "sha256:a8b2772582e8025412f4d4b54b617d8b707076ffd53a2b961bd24f10ec207a7c"
             ],
             "index": "pypi",
+<<<<<<< HEAD
             "version": "==3.2.0"
+=======
+            "version": "==3.1.7"
+>>>>>>> master
         },
         "djangorestframework": {
             "hashes": [
@@ -45,7 +67,12 @@
                 "sha256:1c557d7d0e871de1f5ccd5833f60fb2550652da6be2693c1e02300743d21500d",
                 "sha256:b02c06db6cf09c12dd25137e563b31700d3b80fcc4ad23abb7a315f2789819be"
             ],
+<<<<<<< HEAD
             "version": "==2019.3"
+=======
+            "index": "pypi",
+            "version": "==2021.1"
+>>>>>>> master
         },
         "sqlparse": {
             "hashes": [
@@ -116,7 +143,12 @@
                 "sha256:ab8a6258860da4b6677da4bd2fe5dc2c659cff31b3ee4f7f5d64e79735b80d42",
                 "sha256:dd8d182285a0fe56bace7f45b5e7d1a6ebcbf524e8f3bd87eb0f125271b8831f"
             ],
+<<<<<<< HEAD
             "version": "==0.6.1"
+=======
+            "index": "pypi",
+            "version": "==0.4.1"
+>>>>>>> master
         },
         "pylint": {
             "hashes": [
@@ -172,5 +204,10 @@
             ],
             "version": "==1.11.2"
         }
+<<<<<<< HEAD
     }
+=======
+    },
+    "develop": {}
+>>>>>>> master
 }
