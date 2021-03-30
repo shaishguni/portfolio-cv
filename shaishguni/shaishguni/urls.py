@@ -14,8 +14,13 @@ admin.site.index_title = "Welcome to my own site."
 urlpatterns = [
         path('admin/', admin.site.urls),
         path("", include("portfolio.urls")),
-         path('admin/', admin.site.urls),
-          path('', include("Home.urls")),
+        path('admin/', admin.site.urls),
+      #    path('', include("Home.urls")),
+
+        # url(r'^media/(?P<path>.*)$',serve,
+        #     {'document_root':settings.MEDIA_ROOT}),
+        # url(r'^static/(?P<path>.*)$',serve,
+        #     {'document_root':settings.STATIC_ROOT}),
     ]
 
 
