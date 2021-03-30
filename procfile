@@ -1,1 +1,1 @@
-web: gunicorn CCMS.wsgi --portfolio-
+web: gunicorn shaishguni.wsgi --portfolio-
