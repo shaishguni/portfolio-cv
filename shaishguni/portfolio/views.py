@@ -7,5 +7,5 @@ def home(request):
         content =request.POST['message']
         contact=Contact(name=name, email=email, content=content)
         contact.save()
-            #  messages.success(request, "Your message has been successfully sent")
+            
     return render(request, "index.html")
