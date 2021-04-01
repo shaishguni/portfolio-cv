@@ -1,3 +1,4 @@
+python3==3.9.1
 aiohttp==3.7.3
 amqp==5.0.2
 apipkg==1.5
