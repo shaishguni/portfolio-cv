@@ -11,7 +11,6 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 """
 import  os
 import django_heroku
-import dj_database_url
 from decouple  import config
 
 
@@ -30,18 +29,18 @@ SECRET_KEY = '%yx&=q0we6%t716=w2k!ho777tca1d8j90xdb!t#y3w%s53(u%'
 # SECURITY WARNING don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["http://127.0.0.1/","https://shaishguni.herokuapp.com"]
+ALLOWED_HOSTS = []
 
 # Application definition
 
 INSTALLED_APPS = [       
-    "portfolio",
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    "portfolio"
     
 ]
 
