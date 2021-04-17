@@ -10,8 +10,7 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.1/ref/settings/
 """
 import  os
-import django_heroku
-from decouple  import config
+
 
 
 from pathlib import Path
@@ -29,7 +28,7 @@ SECRET_KEY = '%yx&=q0we6%t716=w2k!ho777tca1d8j90xdb!t#y3w%s53(u%'
 # SECURITY WARNING don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1']
 
 # Application definition
 
@@ -57,7 +56,8 @@ MIDDLEWARE = [
 ]
 
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'http')
-SECURE_SSL_REDIRECT = True
+SECURE_SSL_REDIRECT = False
+
 
 ROOT_URLCONF = 'shaishguni.urls'
 
@@ -130,7 +130,7 @@ USE_TZ = True
 STATIC_URL = '/static/'
 STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]
 
-STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+# STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 
-django_heroku.settings(locals())
+# django_heroku.settings(locals())
