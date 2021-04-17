@@ -1,1 +1,1 @@
-web gunicorn shaishguni.wsgi:application --log-file -
+web gunicorn shaishguni.wsgi:application --log file -
