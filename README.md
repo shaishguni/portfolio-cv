@@ -10,6 +10,6 @@ do the following
 pip install pipenv 
 pipenv shell(as there is already the virtualenv)
 cd shaishguni 
-pyton manage.py runserver 
+python manage.py runserver 
 
 you are all done.
