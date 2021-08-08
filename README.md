@@ -14,7 +14,7 @@ virtualenv venv && source venv/bin/activate
 pip install -r requirements.txt
 ```
 ```json
-cd dj4e
+cd portflio
 ```
 ```json
 
