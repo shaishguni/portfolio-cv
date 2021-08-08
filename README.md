@@ -1,15 +1,31 @@
 # Shaish Guni
 
-Hello everyone I am Shaish Guni here to show my portfolio app in django.I am the founder owner ceo of Tech Group. I have my skills in html,css,js,react,node.js, 
-react native , python , django , rest and some data science, machine learning , artifical intelligence frameworks and libaries like streamlit , numpy , mathplot etc.
+My portfolio using django(old portfolio made for pratice.)
 
-# To setup the project 
+# Local Setup
 
-do the following 
+```json
+git clone https://github.com/shaishguni/portfolio.git
+```
+```json
+virtualenv venv && source venv/bin/activate
+```
+```json
+pip install -r requirements.txt
+```
+```json
+cd dj4e
+```
+```json
 
-pip install pipenv 
-pipenv shell(as there is already the virtualenv)
-cd shaishguni 
-python manage.py runserver 
+python manage.py migrate
+```
+```json
+python manage.py runserver
+```
 
-you are all done.
+
+After that your are good to go.
+
+
+<hr/>
