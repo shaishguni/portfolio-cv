@@ -1,6 +1,6 @@
 # Shaish Guni
 
-My portfolio using django(old portfolio made for pratice.)
+My portfolio using django.
 
 # Local Setup
 
@@ -11,7 +11,7 @@ git clone https://github.com/shaishguni/portfolio.git
 virtualenv venv && source venv/bin/activate
 ```
 ```json
-pip install -r requirements.txt
+pip install Django
 ```
 ```json
 cd portflio
