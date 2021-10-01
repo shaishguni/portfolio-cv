@@ -12,6 +12,7 @@
     "firebase": "^9.1.0",
     "global": "^4.4.0",
     "material-ui-icons": "^1.0.0-beta.36",
+    "netlify-cli": "^6.9.28",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-intersection-observer": "^8.32.1",
