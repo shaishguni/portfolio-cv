@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import { MainLayout, InnerLayout } from '../styles/Layouts';
 import Title from '../Components/Title';
-// import PrimaryButton from '../Components/PrimaryButton';
+import PrimaryButton from '../Components/PrimaryButton';
 import PhoneIcon from '@material-ui/icons/Phone';
 import EmailIcon from '@material-ui/icons/Email';
 import LocationOnIcon from '@material-ui/icons/LocationOn';
@@ -26,18 +26,19 @@ function ContactPage() {
                         <form
                             action="https://formspree.io/f/xbjqzozr"
                             method="POST"
-                        >
+                        > 
                             <label>
-                                Your email:
-                                <input type="email" name="_replyto"></input>
+                                Your email:  <input type="email" name="_replyto" cols="30" rows="10" required></input>
                             </label>
+                            
                             <label>
                                 Your message:
-                                <textarea name="message"></textarea>
+                                <textarea name="message" cols="30" rows="10" required></textarea>
                             </label>
                             {/* <!-- your other form fields go here --> */}
-                            <button type="submit">Send</button>
+                           <PrimaryButton></PrimaryButton>
                         </form>
+                      
                     </div>
                     <div className="right-content">
                         <ContactItem title={'Phone'} icon={phone} cont1={'+977 9849232961'}  />

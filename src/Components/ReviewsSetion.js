@@ -12,6 +12,7 @@ function ReviewsSetion() {
                 <div className="reviews">
                     <ReviewItem 
                         text={'He is a magician who turned my hell website to heaven.'}
+                        person={""}
                         
                     />
                     <ReviewItem

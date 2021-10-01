@@ -1,10 +1,11 @@
 import React from 'react'
 import styled from 'styled-components';
 
-function ReviewItem({text}) {
+function ReviewItem({text,person}) {
     return (
         <RevivewItemStyled>
             <p>{text}<br/></p>
+            <p>| {person}</p>
             
 
        </RevivewItemStyled>

@@ -32,7 +32,7 @@ function Resume() {
                     />
                     <ResumeItem 
                         year={'2018'} 
-                        title={'Full Stack developer/Tech Lead/Project Head/Content Writer'}
+                        title={'Full Stack developer/Content Writer'}
                         subTitle={'AIO'}
                         text={'A sort of open source project like a bloging app where there is all kind of resources related to programming,maths ,science physics.Made some content and even fixed major bugs related to internal securities.'}
                     />

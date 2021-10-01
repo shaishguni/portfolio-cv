@@ -1,10 +1,13 @@
 import React from 'react'
 import styled from 'styled-components';
 
-function PrimaryButton({title}) {
+function PrimaryButton() {
     return (
         <PrimaryButtonStyled>
-            {title}
+            <a>
+
+            <input type="submit" value="Submit"></input>
+            </a>
         </PrimaryButtonStyled>
     )
 }
