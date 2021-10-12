@@ -1,5 +1,5 @@
 # shaishguni
-This is my cv-based postfolio [Live Here.](https://shaishguni-cv.netlify.com/)
+This is my cv-based portfolio [Live Here.](https://shaishguni-cv.netlify.com/)
 # Local Setup
 
 ```json
