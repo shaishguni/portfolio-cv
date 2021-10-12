@@ -13,9 +13,9 @@
             id: 2,
             category: 'React and API',
             image: 'https://assets.ltkcontent.com/images/24355/30879.reading-dictionary_500db604f3.jpg',
-            link1: 'https://github.com/shaishguni/reactdictonary',
+            link1: 'https://github.com/shaishguni/react-dictonary',
             link2: 'https://reactdictonary.netlify.app/',
-            title: 'React disctonary with React and React PWA.',
+            title: 'React dictonary with React and React PWA.',
             text: 'A dictonary made with react and dictionaryapi(https://dictionaryapi.dev/).You can use it for daily purpose.'
         }, 
         {
