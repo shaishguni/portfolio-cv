@@ -2,11 +2,11 @@
 This is my cv-based portfolio [Live Here.](https://shaishguni-cv.netlify.com/)
 # Local Setup
 
-```json
+```bash
 https://github.com/shaishguni/portfolio-cv.git
 ```
 
-```json
+```bash
 yarn
 ```
 ```
@@ -15,7 +15,7 @@ yarn start
 
 ## For deploying
 
-```json
+```bash
 yarn run build
 ```
 
