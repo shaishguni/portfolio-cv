@@ -4,7 +4,7 @@
         id: 1,
         category: 'React',
         image: 'https://cdn.decoratorist.com/wp-content/uploads/agreeable-amethyst-colour-fibreglass-study-chair-grey-908756.jpg',
-        link1: 'https://github.com/Tech-Group-inc/reachmelanding',
+        link1: 'https://github.com/Apeirogon-inc/reachmelanding',
         link2: 'https://reachme.netlify.app/',
         title: 'Reach Me Landing Page.',
         text: 'Created with only HTML and CSS JS and React.For my startup.'
@@ -34,7 +34,7 @@
             category: 'Other',
             image: 'https://i1.sndcdn.com/avatars-000330114611-hkocch-t500x500.jpg',
             link1: 'https://github.com/shaishguni',
-            link2: 'https://github.com/Tech-Group-inc/',
+            link2: 'https://github.com/Apeirogon-inc/',
             title: 'Other projects here. ',
             text: 'other project here.'
         },
