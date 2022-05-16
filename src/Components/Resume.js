@@ -21,14 +21,14 @@ function Resume() {
                     <ResumeItem 
                         year={'2018 - Now'} 
                         title={'Founder,CEO'}
-                        subTitle={'Apeirogon-inc'}
+                        subTitle={'Apeirogon'}
                         text={'Owned and actively working for it to make new type of startups and business by targeting all kind of people.We are scoped and focused for making some sort of social network where people can share there experience and we are even working for making software for business purpose and even for personal purpose. '}
                     />
                     <ResumeItem 
                         year={'2020 March - 2020 December'} 
                         title={'UI/UX Designer'}
-                        subTitle={'Apeirogon-inc'}
-                        text={'Worked for Apeirogon-inc in a different team to make the UI/UX  of all of stuffes made a stunning UI for some of our plans. '} 
+                        subTitle={'Apeirogon'}
+                        text={'Worked for Apeirogon in a different team to make the UI/UX  of all of stuffes made a stunning UI for some of our plans. '} 
                     />
                     <ResumeItem 
                         year={'2018'} 
