@@ -14,7 +14,7 @@ function HomePage() {
             <div className="typography">
                 <h1>Hi, I'm <span>Shaish Guni</span></h1>
                 <p>
-                  Owner,  Founder and CEO of Tech Group. Full Stack Developer and Data Scientist.Actively working for making new startups,businesses and promoting tech in Nepal. 
+                  Owner,  Founder and CEO of Apeirogon. Full Stack Developer and Data Scientist.Actively working for making new startups,businesses and promoting tech in Nepal. 
                 </p>
                 <div className="icons">
                     <a href="https://www.facebook.com/profile.php?id=100025584819295" className="icon i-facebook">
