@@ -25,7 +25,7 @@ function ImageSection() {
                     </div>
                     <div className="info">
                         <p>: Shaish Guni</p>
-                        <p>: 13(2021)</p>
+                        <p>: 16(2023)</p>
                         <p>: Nepali </p>
                         <p>: English,Nepali </p>
                         <p>: Kathmandu,Nepal</p>
