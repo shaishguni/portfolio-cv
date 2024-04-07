@@ -31,7 +31,7 @@ function Resume() {
                         text={'Worked for Apeirogon in a different team to make the UI/UX  of all of stuffes made a stunning UI for some of our plans. '} 
                     />
                     <ResumeItem 
-                        year={'2018'} 
+                        year={'2018-2023'} 
                         title={'Full Stack developer/Content Writer'}
                         subTitle={'AIO'}
                         text={'A sort of open source project like a bloging app where there is all kind of resources related to programming,maths ,science physics.Made some content and even fixed major bugs related to internal securities.'}
@@ -54,7 +54,7 @@ function Resume() {
                         text={'Learned in a self- taught method mainly foucused in two things there they are as Maths and Programming , In maths mainly focused into calculus, linear algebra, and statistics and in the case of prgramming I used Python and Javascript I learned Numpy,OpenCV,Requests,TensorFlow,Pytorch,Keras,SciPy and matplotlib, math(built in libary of python),Chart.js,D3.js. '}
                     />
                     <ResumeItem 
-                        year={'2018 - Now'} 
+                        year={'2018 - 2024'} 
                         title={'High School'}
                         subTitle={'Apex Life School'}
                         text={'Did the high school and one year of primary schooling here.'} 
